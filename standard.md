@@ -3,8 +3,6 @@ layout: page
 title: Standard Examples
 #permalink: /standard/
 ---
-The latest versions of the reconstructed game websites can be accessed from here.
-
 [![Bronze](assets/images/bronze.jpg)](https://i7-examples.github.io/Bronze/)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Bronze](https://i7-examples.github.io/Bronze/), by Emily Short (2006).
