@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Standard Examples Found"
+title:  Standard Examples Found
 date:   2020-12-03 16:02:43 +0000
 #categories: jekyll update
 ---
