@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Original Releases Reconstructed
+title:  inform-fiction.org Releases Reconstructed
 date:   2020-12-14 08:57:00 +0000
 #categories: jekyll update
 ---
