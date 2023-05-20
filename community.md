@@ -5,7 +5,7 @@ title: Community Examples
 
 I've decided to list these according to the I7 build used to produce their latest release. For those of us who are interested in such things, this should make it obvious which of these examples can be easily recompiled and which of them may require extra effort.
 
-_I think this is important because source code examples are more useful to me if they compile. If I reuse code from a compiling example and my efforts don't compile, it's obvious that it's my efforts and not the code example that are the problem. Of course, this is more of an issue for examples developed using older versions of the Inform 7 compiler._
+_I think this is important because source code examples are more useful to me if they compile. If I reuse code from a compiling example and my efforts don't compile, it's obvious that it's my efforts that are the problem and not the code example. Of course, this is more of an issue for examples developed using older versions of the Inform 7 compiler._
 
 An archive of old releases of Inform 7 is [available here](https://ganelson.github.io/inform-website/downloads/) for anyone who wishes to recompile older games. You may also need the [Archive of Inform 7 Extensions](https://github.com/i7/archive). However, this doesn't contain all versions of all extensions.
 
