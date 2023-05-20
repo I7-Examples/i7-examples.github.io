@@ -13,8 +13,6 @@ Many thanks to all the authors who have so generously released their source code
 
 # 6M62
 
-[Inform 7 6M62 for Windows, February 2018 update](https://github.com/DavidKinder/Windows-Inform7/releases/tag/6m62_2018).
-
 [![Counterfeit Monkey](assets/images/counterfeit-monkey.png)](https://ifdb.org/viewgame?id=aearuuxv83plclpl)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Counterfeit Monkey](https://github.com/i7/counterfeit-monkey), by Emily Short (2012).
@@ -22,11 +20,20 @@ Many thanks to all the authors who have so generously released their source code
 An ongoing open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
+[![Bronze](assets/images/bronze.jpg)](https://i7-examples.github.io/Bronze/)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[Bronze](https://i7-examples.github.io/Bronze/), by Emily Short (2006).
+
+An ongoing open-source development.
+This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
+
+_This project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
+
 [![Zork](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Zork](https://github.com/I7-Examples/Zork), by Dean Menezes (2008).
 
-An ongoing open-source development of an Inform 7 version of the original Zork game developed at MIT between 1977 and 1981.
+A completed open-source development of an Inform 7 version of the original Zork game developed at MIT between 1977 and 1981.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 _This project was originally developed using I7 builds 4X60 to 5T18 but has been recently updated to I7 build 6M62._
@@ -39,3 +46,12 @@ _This project was originally developed using I7 builds 4X60 to 5T18 but has been
 
 A completed Kickstarter development.
 This is published in the form of web pages and is therefore not directly compilable.
+
+# 5Z71
+
+[![Blue Lacuna](assets/images/blue-lacuna.jpg)](https://ifdb.org/viewgame?id=ez2mcyx4zi98qlkh)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[Blue Lacuna](https://aareed.itch.io/blue-lacuna), by Aaron A. Reed (2008).
+
+A completed itch.io development.
+This is published as an itch.io source code download, complete with the required extensions, and compiles with no problems.
