@@ -24,7 +24,7 @@ This is published as an Inform 7 project, complete with the required extensions,
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Bronze](https://i7-examples.github.io/Bronze/), by Emily Short (2006).
 
-An ongoing open-source development.
+A completed open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 _This project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
