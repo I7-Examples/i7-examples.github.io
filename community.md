@@ -17,14 +17,14 @@ Many thanks to all the authors who have so generously released their source code
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Counterfeit Monkey](https://github.com/i7/counterfeit-monkey), by Emily Short (2012).
 
-An ongoing open-source development.
+An open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 [![Bronze](assets/images/bronze.jpg)](https://i7-examples.github.io/Bronze/)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Bronze](https://i7-examples.github.io/Bronze/), by Emily Short (2006).
 
-A completed open-source development.
+An open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 _This project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
@@ -33,7 +33,7 @@ _This project was originally developed using I7 builds 3K27 and 6F95 but has bee
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Zork](https://github.com/I7-Examples/Zork), by Dean Menezes (2008).
 
-A completed open-source development of an Inform 7 version of the original Zork game developed at MIT between 1977 and 1981.
+An open-source development of an Inform 7 version of the original Zork game developed at MIT between 1977 and 1981.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 _This project was originally developed using I7 builds 4X60 to 5T18 but has been recently updated to I7 build 6M62._
@@ -44,8 +44,10 @@ _This project was originally developed using I7 builds 4X60 to 5T18 but has been
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Hadean Lands](https://hadeanlands.com/src/), by Andrew Plotkin (2014).
 
-A completed Kickstarter development.
+A Kickstarter development.
 This is published in the form of web pages and is therefore not directly compilable.
+
+_The source code can be reconstituted from the web pages. Once this is done, it can be compiled using I7 build 6G60 augmented with I6 version 6.34._
 
 # 5Z71
 
@@ -53,5 +55,6 @@ This is published in the form of web pages and is therefore not directly compila
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Blue Lacuna](https://aareed.itch.io/blue-lacuna), by Aaron A. Reed (2008).
 
-A completed itch.io development.
+An itch.io development.
 This is published as an itch.io source code download, complete with the required extensions, and compiles with no problems.
+
