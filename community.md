@@ -29,7 +29,7 @@ This is published as an Inform 7 project, complete with the required extensions,
 
 _This project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
 
-[![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlke.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
+[![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlike.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [And Then You Come to a House Not Unlike the Previous One](https://github.com/bjbest60/HouseNotUnlike), by B.J. Best (2021).
 
