@@ -20,14 +20,23 @@ Many thanks to all the authors who have so generously released their source code
 An open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
-[![Bronze](assets/images/bronze.jpg)](https://i7-examples.github.io/Bronze/)
+[![Bronze](assets/images/bronze.jpg)](https://ifdb.org/viewgame?id=9p8kh3im2j9h2881)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Bronze](https://i7-examples.github.io/Bronze/), by Emily Short (2006).
+[Bronze](https://github.com/I7-Examples/Bronze), by Emily Short (2006).
 
 An open-source development.
 This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
 
 _This project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
+
+[![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlke.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[And Then You Come to a House Not Unlike the Previous One](https://github.com/bjbest60/HouseNotUnlike), by B.J. Best (2021).
+
+An open-source development.
+This is published as Inform 7 source code and compiled story along with cover images and a pdf guide.
+
+_A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be compiled using Hybrid Choices version 7._
 
 [![Zork](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
