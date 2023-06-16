@@ -47,6 +47,13 @@ This is published as an Inform 7 project, complete with the required extensions,
 
 _This project was originally developed using I7 builds 4X60 to 5T18 but has been recently updated to I7 build 6M62._
 
+# 6L02
+
+[![Slouching Towards Bedlam](assets/images/slouching.png)](https://ifdb.org/viewgame?id=032krqe6bjn5au78)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[Slouching Towards Bedlam](http://www.peccable.com/if/slouching-10/), by Star Foster and Daniel Ravipinto (2003).
+
+
 # 6G60
 
 [![Hadean Lands](assets/images/hadean-lands.jpg)](https://ifdb.org/viewgame?id=u58d0mlbfwcorfi)
