@@ -38,15 +38,15 @@ This is published as Inform 7 source code and compiled story along with cover im
 
 _A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be compiled using Hybrid Choices version 7._
 
-[![Zork](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
+[![Inform 7 Dungeon (Zork)](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Zork](https://github.com/I7-Examples/Zork), by Dean Menezes (2008).
+[Inform 7 Dungeon (Zork)](https://sourceforge.net/projects/i7-dungeon/files/), by Dean Menezes (2008).
 
-Hosted by [Inform 7 Examples](https://github.com/I7-Examples) on GitHub.
-An Inform 7 version of the original Zork game developed at MIT between 1977 and 1981.
-This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
+Hosted by [SourceForge](https://sourceforge.net/).
+An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981.
+This is published as an Inform 7 story file with related source code and compiles with no problems.
 
-_The project was originally developed using I7 builds 4X60 to 5T18 but has been recently updated to I7 build 6M62._
+_The project was originally developed using I7 builds 4X60 to 5T18 but has recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
 
 # 6L02
 
