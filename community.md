@@ -22,12 +22,12 @@ This is published as an Inform 7 project, complete with the required extensions,
 
 [![Bronze](assets/images/bronze.jpg)](https://ifdb.org/viewgame?id=9p8kh3im2j9h2881)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Bronze](https://github.com/I7-Examples/Bronze), by Emily Short (2006).
+[Bronze](https://web.archive.org/web/20181219081918/http://inform7.com/learn/eg/bronze/index.html), by Emily Short (2006).
 
-Hosted by [Inform 7 Examples](https://github.com/I7-Examples) on GitHub.
-This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
+Hosted by [inform7.com (on the Wayback Machine)](https://web.archive.org/web/20181217142834/http://inform7.com/)
+This is published as an Inform 7 website and compiles with no problems.
 
-_The project was originally developed using I7 builds 3K27 and 6F95 but has been recently updated to I7 build 6M62._
+_The project was originally developed using I7 builds 3K27 and 6F95 but has recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Bronze)._
 
 [![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlike.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
