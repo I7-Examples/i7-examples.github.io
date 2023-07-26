@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Compiling with Inform for Windows 10.1.2
+title:  Compiling with Inform 10.1.2
 date:   2023-07-25 00:00:00 +0000
 #categories: jekyll update
 ---
