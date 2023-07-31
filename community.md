@@ -11,7 +11,7 @@ An archive of old releases of Inform 7 is [available here](https://ganelson.gith
 
 Many thanks to all the authors who have so generously released their source code to the rest of the IF Community.
 
-## Classic
+## Classics on IFDB
 
 # 6M62
 
