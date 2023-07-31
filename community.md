@@ -11,6 +11,22 @@ An archive of old releases of Inform 7 is [available here](https://ganelson.gith
 
 Many thanks to all the authors who have so generously released their source code to the rest of the IF Community.
 
+## Classic
+
+# 6M62
+
+[![Inform 7 Dungeon (Zork)](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[Inform 7 Dungeon (Zork)](https://sourceforge.net/projects/i7-dungeon/files/), by Dean Menezes (2008).
+
+Hosted by [SourceForge](https://sourceforge.net/).
+An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981.
+This is published as an Inform 7 story file with related source code and compiles with no problems.
+
+_The project was originally developed using I7 builds 4X60 to 5T18 but has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
+
+## Highest Rated on IFDB
+
 # 6M62
 
 [![Counterfeit Monkey](assets/images/counterfeit-monkey.png)](https://ifdb.org/viewgame?id=aearuuxv83plclpl)
@@ -28,16 +44,6 @@ Hosted by [B.J. Best](https://github.com/bjbest60) on GitHub.
 This is published as Inform 7 source code and compiled story along with cover images and a pdf guide.
 
 _A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be compiled using Hybrid Choices version 7._
-
-[![Inform 7 Dungeon (Zork)](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
-{:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Inform 7 Dungeon (Zork)](https://sourceforge.net/projects/i7-dungeon/files/), by Dean Menezes (2008).
-
-Hosted by [SourceForge](https://sourceforge.net/).
-An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981.
-This is published as an Inform 7 story file with related source code and compiles with no problems.
-
-_The project was originally developed using I7 builds 4X60 to 5T18 but has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
 
 # 6L02
 
