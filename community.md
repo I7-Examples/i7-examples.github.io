@@ -23,7 +23,7 @@ Hosted by [SourceForge](https://sourceforge.net/).
 An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981.
 This is published as an Inform 7 story file with related source code and compiles with no problems.
 
-_The project was originally developed using I7 builds 4X60 to 5T18 but has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
+_The project was originally developed using [I7 builds 4X60 to 5T18](https://github.com/I7-Examples/I7-Win-App-Archives) but has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
 
 ## Highest Rated on IFDB
 
