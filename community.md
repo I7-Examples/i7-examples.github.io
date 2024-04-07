@@ -34,7 +34,7 @@ _The project was originally developed using [I7 builds 4X60 to 5T18](https://git
 [Counterfeit Monkey](https://github.com/i7/counterfeit-monkey), by Emily Short (2012).
 
 Hosted by [Friends of Inform 7](https://github.com/i7) on GitHub.
-This is published as an Inform 7 project, complete with the required extensions, and compiles with no problems.
+This is published as an Inform 7 project, complete with the required extensions, and [compiles](https://github.com/I7-Examples/counterfeit-monkey) with no problems.
 
 [![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlike.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
@@ -43,7 +43,7 @@ This is published as an Inform 7 project, complete with the required extensions,
 Hosted by [B.J. Best](https://github.com/bjbest60) on GitHub.
 This is published as Inform 7 source code and compiled story along with cover images and a pdf guide.
 
-_A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be compiled using Hybrid Choices version 7._
+_A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be [compiled](https://github.com/I7-Examples/House-Not-Unlike) using Hybrid Choices version 7._
 
 # 6L02
 
