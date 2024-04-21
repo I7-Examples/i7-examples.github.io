@@ -43,7 +43,7 @@ This is published as an Inform 7 project, complete with the required extensions,
 Hosted by [B.J. Best](https://github.com/bjbest60) on GitHub.
 This is published as Inform 7 source code and compiled story along with cover images and a pdf guide.
 
-_A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be [compiled](https://github.com/I7-Examples/House-Not-Unlike) using Hybrid Choices version 7._
+_A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be [compiled](https://github.com/I7-Examples/HouseNotUnlike) using Hybrid Choices version 7._
 
 # 6L02
 
