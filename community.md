@@ -56,6 +56,8 @@ This is published as an [Inform 7 website](http://www.peccable.com/if/slouching-
 
 _It is quite straightforward to update the extension. Once this is done, the release 2 source code can be compiled using I7 build 6L02._
 
+_The project has more recently been [updated to I7 build 6M62](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
+
 # 6G60
 
 [![Hadean Lands](assets/images/hadean-lands.jpg)](https://ifdb.org/viewgame?id=u58d0mlbfwcorfi)
