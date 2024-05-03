@@ -58,7 +58,7 @@ _It is quite straightforward to update the extension. Once this is done, the rel
 
 _The sources have been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
 
-_Unfortunately, I can't provide access to my copies of the source code or any derivatives thereof since there is no apparent permission to re-release or to produce derivative works._
+_Unfortunately, I can't provide access to my copies of the source code or any derivatives thereof since there is no permission to re-release or to produce derivative works._
 
 # 6G60
 
