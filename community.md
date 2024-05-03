@@ -56,7 +56,7 @@ This is published as an [Inform 7 website](http://www.peccable.com/if/slouching-
 
 _It is quite straightforward to update the extension. Once this is done, the release 2 source code can be compiled using I7 build 6L02._
 
-_The project has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
+_Unfortunately, I can't provide access to my copies of the source code or any derivatives thereof since there is no apparent permission to re-release or to produce derivative works._
 
 # 6G60
 
