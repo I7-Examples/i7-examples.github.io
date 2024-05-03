@@ -45,8 +45,6 @@ This is published as Inform 7 source code and compiled story along with cover im
 
 _A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. The source code can be [compiled](https://github.com/I7-Examples/HouseNotUnlike) using Hybrid Choices version 7._
 
-# 6L02
-
 [![Slouching Towards Bedlam](assets/images/slouching.png)](https://ifdb.org/viewgame?id=032krqe6bjn5au78)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
 [Slouching Towards Bedlam](http://www.peccable.com/if/slouching-10/), by Star Foster and Daniel Ravipinto (2003).
@@ -56,7 +54,7 @@ This is published as an [Inform 7 website](http://www.peccable.com/if/slouching-
 
 _It is quite straightforward to update the extension. Once this is done, the release 2 source code can be compiled using I7 build 6L02._
 
-_The project has more recently been [updated to I7 build 6M62](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
+_The project has more recently been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62 for members only](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
 
 # 6G60
 
