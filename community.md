@@ -56,8 +56,6 @@ This is published as an [Inform 7 website](http://www.peccable.com/if/slouching-
 
 _It is quite straightforward to update the extension. Once this is done, the release 2 source code can be compiled using I7 build 6L02._
 
-_The sources have been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Slouching-Towards-Bedlam)._
-
 # 6G60
 
 [![Hadean Lands](assets/images/hadean-lands.jpg)](https://ifdb.org/viewgame?id=u58d0mlbfwcorfi)
@@ -71,8 +69,6 @@ _The source code can be reconstituted from the web pages. Once this is done, it 
 
 _The sources have been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Hadean-Lands)._
 
-_Unfortunately, I can't provide access to the reconstituted source code or any derivatives thereof because the published web pages have been released for personal, educational use only._
-
 # 5Z71
 
 [![Blue Lacuna](assets/images/blue-lacuna.jpg)](https://ifdb.org/viewgame?id=ez2mcyx4zi98qlkh)
@@ -81,4 +77,3 @@ _Unfortunately, I can't provide access to the reconstituted source code or any d
 
 Hosted by [itch.io](https://itch.io/).
 This is published as an itch.io source code download, complete with the required extensions, and compiles with no problems.
-
