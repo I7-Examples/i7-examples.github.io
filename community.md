@@ -67,8 +67,6 @@ This is published in the form of web pages and is therefore not directly compila
 
 _The source code can be reconstituted from the web pages. Once this is done, it can be compiled using I7 build 6G60 augmented with I6 version 6.34._
 
-_The sources have been imported to [Inform 7 Examples](https://github.com/I7-Examples) and [updated to I7 build 6M62](https://github.com/I7-Examples/Hadean-Lands)._
-
 # 5Z71
 
 [![Blue Lacuna](assets/images/blue-lacuna.jpg)](https://ifdb.org/viewgame?id=ez2mcyx4zi98qlkh)
