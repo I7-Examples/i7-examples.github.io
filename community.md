@@ -77,3 +77,5 @@ _The source text can be reconstituted from the web pages. Once this is done, it 
 
 Hosted on [itch.io](https://itch.io/).
 This is published as an itch.io source text download, complete with the required extensions.
+
+_The project has been [imported to Inform 7 Examples](https://github.com/I7-Examples/Blue-Lacuna)._
