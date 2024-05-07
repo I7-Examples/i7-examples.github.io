@@ -38,6 +38,7 @@ theme: minima
 header_pages:
   - standard.md
   - community.md
+  - exercises.md
 
 #plugins:
 #  - jekyll-feed

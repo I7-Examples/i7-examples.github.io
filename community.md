@@ -11,18 +11,6 @@ An archive of old releases of Inform 7 is [available here](https://ganelson.gith
 
 Many thanks to all the authors who have so generously released their source code to the rest of the IF Community.
 
-## Classics on IFDB
-
-# 5T18
-
-[![Inform 7 Dungeon (Zork)](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
-{:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Inform 7 Dungeon (Zork)](https://sourceforge.net/projects/i7-dungeon/files/), by Dean Menezes (2008).
-
-Hosted on SourceForge. An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981. This is published as an Inform 7 story file with related source text.
-
-_The project was originally developed using I7 builds 4X60 to 5T18 but has more recently been [imported to Inform 7 Examples and updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
-
 ## Highest Rated on IFDB
 
 # 6M62
@@ -47,28 +35,6 @@ _The repository has been [forked to Inform 7 Examples](https://github.com/I7-Exa
 
 _A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no longer available. It has been replaced with Hybrid Choices version 7._
 
-# 6L02
-
-[![Slouching Towards Bedlam](assets/images/slouching.png)](https://ifdb.org/viewgame?id=032krqe6bjn5au78)
-{:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Slouching Towards Bedlam](http://www.peccable.com/if/slouching-10/), by Star Foster and Daniel Ravipinto (2003).
-
-Hosted by [Peccable Productions](http://www.peccable.com/).
-This is published as an [Inform 7 website](http://www.peccable.com/if/slouching-10/src/). A single required extension is [provided](http://www.peccable.com/if/slouching-10/Titled%20Menus.i7x) but the version is the one required to support [Release 1](http://www.peccable.com/if/slouching-10/src-release-1/) which was developed using I7 build 6G60.
-
-_It's quite straightforward to update the extension. Once this is done, the release 2 source text can be compiled using I7 build 6L02. It's also quite straightforward to update the source text to I7 build 6M62._
-
-# 6G60
-
-[![Hadean Lands](assets/images/hadean-lands.jpg)](https://ifdb.org/viewgame?id=u58d0mlbfwcorfi)
-{:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Hadean Lands](https://hadeanlands.com/src/), by Andrew Plotkin (2014).
-
-Hosted on [it's own website](https://hadeanlands.com/).
-This is published in the form of web pages and is therefore not directly compilable.
-
-_The source text can be reconstituted from the web pages. Once this is done, it can be compiled using I7 build 6G60 augmented with I6 version 6.34._
-
 # 5Z71
 
 [![Blue Lacuna](assets/images/blue-lacuna.jpg)](https://ifdb.org/viewgame?id=ez2mcyx4zi98qlkh)
@@ -79,3 +45,15 @@ Hosted on [itch.io](https://itch.io/).
 This is published as an itch.io source text download, complete with the required extensions.
 
 _The project has been [imported to Inform 7 Examples](https://github.com/I7-Examples/Blue-Lacuna)._
+
+## Classics on IFDB
+
+# 5T18
+
+[![Inform 7 Dungeon (Zork)](assets/images/zork.jpg)](https://ifdb.org/viewgame?id=4gxk83ja4twckm6j)
+{:style="float: left;margin-right: 15px;margin-top: 5px;"}
+[Inform 7 Dungeon (Zork)](https://sourceforge.net/projects/i7-dungeon/files/), by Dean Menezes (2008).
+
+Hosted on SourceForge. An Inform 7 version of the FORTRAN game "Dungeon" which is itself a translation of the original Zork game developed at MIT between 1977 and 1981. This is published as an Inform 7 story file with related source text.
+
+_The project was originally developed using I7 builds 4X60 to 5T18 but has more recently been [imported to Inform 7 Examples and updated to I7 build 6M62](https://github.com/I7-Examples/Zork)._
