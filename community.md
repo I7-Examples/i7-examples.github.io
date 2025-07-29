@@ -17,7 +17,7 @@ Many thanks to all the authors who have so generously released their source code
 
 [![Counterfeit Monkey](assets/images/counterfeit-monkey.png)](https://ifdb.org/viewgame?id=aearuuxv83plclpl)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Counterfeit Monkey](https://github.com/i7/counterfeit-monkey), by Emily Short (2012).
+#1 - [Counterfeit Monkey](https://github.com/i7/counterfeit-monkey), by Emily Short (2012).
 
 Hosted by [Friends of Inform 7](https://github.com/i7) on GitHub.
 This is published as an Inform 7 project, complete with the required extensions.
@@ -26,7 +26,7 @@ _The repository has been [forked to Inform 7 Examples](https://github.com/I7-Exa
 
 [![And Then You Come to a House Not Unlike the Previous One](assets/images/house-not-unlike.jpg)](https://ifdb.org/viewgame?id=bou58ao7l4eg5z66)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[And Then You Come to a House Not Unlike the Previous One](https://github.com/bjbest60/HouseNotUnlike), by B.J. Best (2021).
+#8 - [And Then You Come to a House Not Unlike the Previous One](https://github.com/bjbest60/HouseNotUnlike), by B.J. Best (2021).
 
 Hosted by [B.J. Best](https://github.com/bjbest60) on GitHub.
 This is published as Inform 7 source text and compiled story along with cover images and a pdf guide.
@@ -39,7 +39,7 @@ _A necessary extension, Hybrid Choices version 4 by AW Freyr, is missing and no 
 
 [![Blue Lacuna](assets/images/blue-lacuna.jpg)](https://ifdb.org/viewgame?id=ez2mcyx4zi98qlkh)
 {:style="float: left;margin-right: 15px;margin-top: 5px;"}
-[Blue Lacuna](https://aareed.itch.io/blue-lacuna), by Aaron A. Reed (2008).
+#3 - [Blue Lacuna](https://aareed.itch.io/blue-lacuna), by Aaron A. Reed (2008).
 
 Hosted on [itch.io](https://itch.io/).
 This is published as an itch.io source text download, complete with the required extensions.
